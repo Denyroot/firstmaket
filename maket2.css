@@ -1,0 +1,40 @@
+main {
+  text-align: center;
+    display: grid ;
+    font-size: 15px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+.main__container {
+    background: #eee;
+
+}
+.img__container {
+    background: #fff;
+    margin: 20px;
+    padding: 30px;
+}
+.main__container h2 {
+    font-size: 3rem;
+}
+.main__container ul{
+    max-width: 550px;
+    margin: 0px auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+
+}
+.main__container li {
+    margin-bottom: 16px;
+}
+.main__container h3 {
+    margin: 50px 0 50px 0;
+}
+.main__container blockquote {
+    max-width: 550px;
+    text-align: left;
+    display: block ;
+    margin: 0 auto 50px auto;
+}
+h3 {
+    font-size: 1.5em;
+}
